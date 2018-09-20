@@ -134,3 +134,10 @@ padding-right: 15px;
   font-size: 13px;
   margin-right: 10px;
 }
+.btn-save {
+  width: 40%;
+  background: blue;
+  opacity: 0.95;
+  color: white;
+  padding: 15px;
+}
